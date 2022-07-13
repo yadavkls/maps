@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* .tracking .gm-style {
+  font: 400 11px Roboto, Arial, sans-serif;
+  text-decoration: none;
+  overflow: hidden;
+} */
+#map {
+  height: 100%;
+}
